@@ -1,4 +1,4 @@
-# 🎮 Informática Gráfica - Trabajo Final: Unity
+# 🎮 Informática Gráfica - Trabajo Final: Eterna of Jade (Unity)
 
 ## 📑 Tabla de contenido
 - Introducción
@@ -8,12 +8,10 @@
 ## ✨ Introducción
 Presentamos esta siguiente propuesta realizada por **Elena Navarro** y **Jericó Luzardo** donde se presenta el juego de mundo abierto en el que puedes ir a cualquier parte del mapa caminando a través de los diferentes paisajes. Hemos diseñado el personaje donde puedes manejar mediante los eventos de teclas que serán los siguientes:
 
-- **Tecla W**: Para avanzar hacia adelante.
-- **Tecla A**: Para mover hacia la izquierda.
-- **Tecla S**: Para retroceder hacia atrás.
-- **Tecla D**: Para mover hacia la derecha.
-- **Tecla Space**: Para saltar.
-- **Tecla Shift**: Para descender si una vez saltado el personaje.
+- **Tecla W o Flecha hacia arriba**: Para avanzar hacia adelante.
+- **Tecla A o Flecha hacia izquierda**: Para mover hacia la izquierda.
+- **Tecla S o Flecha hacia debajo**: Para retroceder hacia atrás.
+- **Tecla D o Flecha hacia derecha**: Para mover hacia la derecha.
   
 ## ⚙️ Configuración y uso de un proyecto Unity
 1. Ejecuta el siguiente comando en tu terminal para clonar el repositorio:
